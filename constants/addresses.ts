@@ -1,0 +1,6 @@
+import { ThirdwebSDK } from "@thirdweb-dev/sdk";
+
+export const NFT_COLLECTION="0x3e84A04453aA6f387F39996AaB75d56f8381f87F";
+export const FACTORY_ADDRESS="0x3916EFC926E2d935f76257F66242F19d1865BA99";
+export const API_KEY="a7d6e7c5719911940aa9c48c358e4ee5";
+export const SECRET_KEY="CoA5CP-1V_6eYmxGJBQ0s2T-3hfisYNDGywhqdi1dEFHaOfFoseg8h5N1BiJJXV1gN8SVhexlhTh56VdEIFFIQ"
